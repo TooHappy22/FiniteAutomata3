@@ -1,0 +1,22 @@
+19
+S NP VBZ
+S NP VP
+VP VP PP
+VP VBZ NP
+VP VBZ PP
+VP VBZ NNS
+VP VBZ VP
+VP VBP NP
+VP VBP PP
+NP DT NN
+NP DT NNS
+PP IN NP
+DT the
+NN chef
+NNS fish
+NNS chopsticks
+VBP fish
+VBZ eats
+IN with
+S
+the chef eats fish with the chopsticks
